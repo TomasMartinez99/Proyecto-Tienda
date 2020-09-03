@@ -10,6 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+
+		<p>deva gatoooo</p>
         <?php
         // put your code here
         ?>
