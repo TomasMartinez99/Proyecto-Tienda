@@ -14,7 +14,7 @@ and open the template in the editor.
         <h1>Los pibes atr</h1>
 =======
 
-		<p>ACTUALIZACION</p>
+		<p>Prueba</p>
         <?php
         // put your code here
         ?>
