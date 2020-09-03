@@ -10,6 +10,14 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+<<<<<<< HEAD
         <h1>Los pibes atr</h1>
+=======
+
+		<p>Oreja tira gomas</p>
+        <?php
+        // put your code here
+        ?>
+>>>>>>> 2a93a49529797885cbc02da62bdc488f61ebb24a
     </body>
 </html>
