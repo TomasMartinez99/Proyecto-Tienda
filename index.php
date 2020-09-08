@@ -11,10 +11,10 @@ and open the template in the editor.
     </head>
     <body>
 <<<<<<< HEAD
-        <h1>Los pibes atr</h1>
+        <h1>Probando</h1>
 =======
 
-		<p>Prueba</p>
+		<p>Probando</p>
         <?php
         // put your code here
         ?>
